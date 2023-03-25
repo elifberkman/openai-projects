@@ -5,31 +5,31 @@ This repository contains a collection of OpenAI projects to demonstrate the capa
 # Projects
 
 ### 1. Natural Language to SQL
-The Natural Language to SQL project uses OpenAI's GPT-3 model to convert natural language into a SQL query. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Natural Language to SQL project uses OpenAI's GPT-3 model to convert natural language into a SQL query. The project folder contains a Python scripts (db_utils.py, main.py, openai_utils.py) and a sample jupyter notebook file (NLP-to-SQL.ipynb). 
 
 ### 2. Automatic Exam Creator
-The Automatic Exam Creator project uses OpenAI's GPT-3 model to automatically create a quiz and solution guide for teachers. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Automatic Exam Creator project uses OpenAI's GPT-3 model to automatically create a quiz and solution guide for teachers. The project folder contains a Python script and a sample input file. 
 
 ### 3. Automatic Recipe Creator
-The Automatic Recipe Creator project uses OpenAI's DALLE model to generate recipes and food pictures automatically from an ingredient list. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Automatic Recipe Creator project uses OpenAI's DALLE model to generate recipes and food pictures automatically from an ingredient list. The project folder contains a Python script and a sample input file. 
 
 ### 4. Automatic Blog Post Generator
-The Automatic Blog Post Generator project uses OpenAI's GPT-3 model to generate blog posts and publish them on the internet. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Automatic Blog Post Generator project uses OpenAI's GPT-3 model to generate blog posts and publish them on the internet. The project folder contains a Python script and a sample input file. 
 
 ### 5. Reddit Sentiment Analysis
-The Reddit Sentiment Analysis project uses OpenAI's GPT-2 model to perform sentiment analysis on subreddit posts about public companies and stocks. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Reddit Sentiment Analysis project uses OpenAI's GPT-2 model to perform sentiment analysis on subreddit posts about public companies and stocks. The project folder contains a Python script and a sample input file. 
 
 ### 6. Automatic Code Documentation
-The Automatic Code Documentation project uses OpenAI's GPT-3 model to automatically generate Python docstrings. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Automatic Code Documentation project uses OpenAI's GPT-3 model to automatically generate Python docstrings. The project folder contains a Python script and a sample input file. 
 
 ### 7. Fine-tunning ChatBot
-The Fine-tuning ChatBot project uses OpenAI's GPT-3 model to create a StackOverflow chatbot. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Fine-tuning ChatBot project uses OpenAI's GPT-3 model to create a StackOverflow chatbot. The project folder contains a Python script and a sample input file. 
 
 ### 8. Translation
-The Translation project uses OpenAI's GPT-3 model to automatically read foreign newspapers and then translate and summarize news in other countries. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Translation project uses OpenAI's GPT-3 model to automatically read foreign newspapers and then translate and summarize news in other countries. The project folder contains a Python script and a sample input file. 
 
 ### 9. Text Embedding
-The Text Embedding project uses OpenAI's GPT-3 model to perform text embedding on a custom data set for custom question answering. The project folder contains a Python script and a sample input file. You can run the project by following the instructions in the README.md file in the project folder.
+The Text Embedding project uses OpenAI's GPT-3 model to perform text embedding on a custom data set for custom question answering. The project folder contains a Python script and a sample input file. 
 
 ## Requirements
 Python 3.x  

@@ -5,10 +5,10 @@ This repository contains a collection of OpenAI projects to demonstrate the capa
 # Projects
 
 ### 1. Natural Language to SQL
-The Natural Language to SQL project uses OpenAI's GPT-3 model to convert natural language into a SQL query. The project folder contains a Python scripts (db_utils.py, main.py, openai_utils.py) and a sample jupyter notebook file (NLP-to-SQL.ipynb). 
+The Natural Language to SQL project uses OpenAI's GPT-3 model to convert natural language into a SQL query. The project folder contains Python scripts (db_utils.py, main.py, openai_utils.py) and a sample jupyter notebook file (NLP-to-SQL.ipynb). 
 
 ### 2. Automatic Exam Creator
-The Automatic Exam Creator project uses OpenAI's GPT-3 model to automatically create a quiz and solution guide for teachers. The project folder contains a Python script and a sample input file. 
+The Automatic Exam Creator project uses OpenAI's GPT-3 model to automatically create a quiz and solution guide for teachers. The project folder contains Python scripts (exam-simulator.py, main.py, teacher.py, test_creator.py) and a sample jupyter notebook file (auto-exam-creator.ipynb).
 
 ### 3. Automatic Recipe Creator
 The Automatic Recipe Creator project uses OpenAI's DALLE model to generate recipes and food pictures automatically from an ingredient list. The project folder contains a Python script and a sample input file. 

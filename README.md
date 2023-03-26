@@ -11,10 +11,10 @@ The Natural Language to SQL project uses OpenAI's GPT-3 model to convert natural
 The Automatic Exam Creator project uses OpenAI's GPT-3 model to automatically create a quiz and solution guide for teachers. The project folder contains Python scripts (exam-simulator.py, main.py, teacher.py, test_creator.py) and a sample jupyter notebook file (auto-exam-creator.ipynb).
 
 ### 3. Automatic Recipe Creator
-The Automatic Recipe Creator project uses OpenAI's DALLE model to generate recipes and food pictures automatically from an ingredient list. The project folder contains a Python script and a sample input file. 
+The Automatic Recipe Creator project uses OpenAI's DALLE model to generate recipes and food pictures automatically from an ingredient list. The project folder contains Python scripts (dalle.py, main.py, recipe.py) and a sample jupyter notebook file (auto-recipe-creator.ipynb).
 
 ### 4. Automatic Blog Post Generator
-The Automatic Blog Post Generator project uses OpenAI's GPT-3 model to generate blog posts and publish them on the internet. The project folder contains a Python script and a sample input file. 
+The Automatic Blog Post Generator project uses OpenAI's GPT-3 model to generate blog posts and publish them on the internet. The project folder contains Python scripts (auto-blog-post.py, blog_utils.py, main.py, openai_utils.py) and a sample jupyter notebook file (auto-blog-post.ipynb).
 
 ### 5. Reddit Sentiment Analysis
 The Reddit Sentiment Analysis project uses OpenAI's GPT-2 model to perform sentiment analysis on subreddit posts about public companies and stocks. The project folder contains a Python script and a sample input file. 
@@ -40,7 +40,7 @@ Before running any of the projects, make sure you have Python 3.x installed on y
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
 
-``` git clone https://github.com/yourusername/openai-projects.git ```
+``` git clone https://github.com/elifberkman/openai-projects.git ```
 
 Replace yourusername with your GitHub username.
 
